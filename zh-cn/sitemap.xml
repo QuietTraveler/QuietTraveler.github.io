@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://QuietTraveler.github.io/</loc>
-    <lastmod>2024-10-20T20:14:19+08:00</lastmod>
+    <lastmod>2024-10-20T21:43:18+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,11 +20,11 @@
                 href="https://QuietTraveler.github.io/"
                 />
   </url><url>
-    <loc>https://QuietTraveler.github.io/p/myfirstblog/</loc>
-    <lastmod>2024-10-20T20:14:19+08:00</lastmod>
+    <loc>https://QuietTraveler.github.io/p/new/</loc>
+    <lastmod>2024-10-20T21:43:18+08:00</lastmod>
   </url><url>
     <loc>https://QuietTraveler.github.io/post/</loc>
-    <lastmod>2024-10-20T20:14:19+08:00</lastmod>
+    <lastmod>2024-10-20T21:43:18+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -35,6 +35,9 @@
                 hreflang="zh-cn"
                 href="https://QuietTraveler.github.io/post/"
                 />
+  </url><url>
+    <loc>https://QuietTraveler.github.io/p/myfirstblog/</loc>
+    <lastmod>2024-10-20T20:14:19+08:00</lastmod>
   </url><url>
     <loc>https://QuietTraveler.github.io/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
