@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://QuietTraveler.github.io/</loc>
-    <lastmod>2024-10-21T11:05:24+00:00</lastmod>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,51 +20,13 @@
                 href="https://QuietTraveler.github.io/"
                 />
   </url><url>
-    <loc>https://QuietTraveler.github.io/tags/blog/</loc>
-    <lastmod>2024-10-21T11:05:24+00:00</lastmod>
+    <loc>https://QuietTraveler.github.io/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://QuietTraveler.github.io/post/</loc>
-    <lastmod>2024-10-21T11:05:24+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://QuietTraveler.github.io/ar/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://QuietTraveler.github.io/post/"
-                />
-  </url><url>
-    <loc>https://QuietTraveler.github.io/tags/</loc>
-    <lastmod>2024-10-21T11:05:24+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://QuietTraveler.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://QuietTraveler.github.io/ar/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://QuietTraveler.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://QuietTraveler.github.io/p/%E6%97%A0%E7%8A%B6%E6%80%81%E7%9A%84-http-%E5%8D%8F%E8%AE%AE/</loc>
-    <lastmod>2024-10-21T11:05:24+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/tags/internet/</loc>
-    <lastmod>2024-10-21T11:02:13+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/p/%E4%B8%89%E7%A7%8D%E4%BA%A4%E6%8D%A2%E6%96%B9%E5%BC%8F/</loc>
-    <lastmod>2024-10-21T11:02:13+00:00</lastmod>
+    <loc>https://QuietTraveler.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://QuietTraveler.github.io/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -81,72 +43,22 @@
                 href="https://QuietTraveler.github.io/categories/"
                 />
   </url><url>
-    <loc>https://QuietTraveler.github.io/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/page/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/p/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/p/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <loc>https://QuietTraveler.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://QuietTraveler.github.io/en/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://QuietTraveler.github.io/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
+                href="https://QuietTraveler.github.io/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://QuietTraveler.github.io/p/placeholder-text/"
+                href="https://QuietTraveler.github.io/tags/"
                 />
-  </url><url>
-    <loc>https://QuietTraveler.github.io/tags/tag-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/categories/test-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/p/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QuietTraveler.github.io/p/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://QuietTraveler.github.io/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
